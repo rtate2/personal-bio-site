@@ -10,30 +10,40 @@
 </head>
 
 <body>
+  <header>
+      <h1>Randy Tate's Personal Site</h1>
+  </header>
+  
   <!-- Navigation -->
   <nav>
-    <h1>Randy Tate Jr.</h1>
     <ul id="navLinks">
-      <li><a id="navToBio">Bio</a></li>
-      <li><a id="navToTechnologies">Technologies</a></li>
-      <li><a id="navToProjects">Projects</a></li>
+      <li><a id="navToBio" href=#bioPage>Bio</a></li>
+      <li><a id="navToTechnologies" href=#technologiesPage>Technologies</a></li>
+      <li><a id="navToProjects" href=#projectsPage>Projects</a></li>
     </ul>
   </nav>
   <!-- End Navigation -->
 
   <!-- Primary View -->
   <div class="fullPage" id="bioPage">
-    <!-- TODO: Fill in bio info here: What is your background? Why do you want to go into development? What do you love about development? -->
+    <!-- What is your background?  -->
   </div>
-  <div class="fullPage" id="technologiesPage">
-    <!-- TODO: Start an UL of all of the tools and technologies you've started learning so far. (You'll beef this page up later). -->
+
+
+  <div class="fullPage hidden" id="technologiesPage">
   </div>
-  <div class="fullPage" id="projectsPage"></div>
+
+  <!-- <h3>Projects</h3> -->
+  <div class="fullPage hidden" id="projectsPage"></div>
+  
   <!-- End Primary View -->
 
   <!-- Footer -->
-  <footer class="page-footer">
-    <!-- TODO: Contact Info: randytatejr@gmail.com, linkedin.com/in/randytatejr, GitHub links. -->
+  <footer class="page-footer rt-footer">
+    <h4>Contact Me:</h4>
+      <a href="mailto:randytatejr@gmail.com" target="_blank" class="fas fa-mail-bulk" style="margin: 5px;"></a>
+      <a href="https://www.linkedin.com/in/randytatejr" target="_blank" class="fab fa-linkedin-in" style="margin: 5px;"></a>
+      <a href="https://github.com/rtate2" target="_blank" class="fab fa-github" style="margin: 5px;"></a>
   </footer>
   <!-- End Footer -->
 
@@ -43,6 +53,7 @@
   <script src="./projects.js"></script>
   <script src='./main.js'></script>
   <script src='./projects.js'></script>
+  <script src="https://kit.fontawesome.com/d5d9e35974.js"></script>
   </div>
 
 </body>
