@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: lightgray;
+    // background-image: url("https://media.licdn.com/dms/image/C4E03AQH8q1C75zb3Vw/profile-displayphoto-shrink_200_200/0?e=1582156800&v=beta&t=evPwGVao2a92UxW05UccVrA4Zz3PpVisqrnMBBD7PG4");
+    // background-repeat: no-repeat;
+    // background-attachment: fixed;
+    // background-position: center;
+}
+
+.rt-footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.hide {
+    display: none;
+}
+
+.fullPage {
+    margin: 75px 0 0 0;
+}
+
+.heroImage {
+    padding: 8% 0 0 0;
+}

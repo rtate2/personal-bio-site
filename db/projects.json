@@ -1,0 +1,39 @@
+{
+  "project1": {
+    "title": "Product Cards",
+    "screenshot": "Images/ProductCards.png",
+    "description": "The project focused on building a grid of cards for a company's products.",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, and Version Control with Github",
+    "available": true,
+    "url": "https://github.com/rtate2/product-cards",
+    "githubUrl": "https://github.com/rtate2/product-cards"
+  },
+    "project2": {
+    "title": "Cool Project",
+    "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+    "description": "This is the best project",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "available": false,
+    "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+    "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+  },
+
+  "project3": {
+    "title": "Star Destroyer",
+    "screenshot": "Images/Star-Destoyer-Screenshot.png",
+    "description": "Use this application to view the Star Destroyer Database and edit its content.",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, Firebase",
+    "available": true,
+    "url": "https://nutshell-star-destroyer.firebaseapp.com/",
+    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-star-destroyer"
+  },
+  "project4": {
+    "title": "PanAm Airlines",
+    "screenshot": "Images/PanAm-Airlines-Screenshot.png",
+    "description": "Use this application as an internal system to maintain crew, airport, food services and fleet tracking for the new PanAm Airlines.",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, Firebase",
+    "available": true,
+    "url": "https://nutshell-panam.firebaseapp.com/",
+    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-panam-airlines"
+  }
+}
