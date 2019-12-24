@@ -1,9 +1,16 @@
-.technology-card {
-  width: 20%;
-  height: auto;
+.techStack {
+  background-image: url("https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&w=1000&q=80");
+  background-repeat: no-repeat;
+  position: absolute;
+  background-size: cover;
+  align-content: center;
+  // background-attachment: fixed;
+  // background-position: center;
 }
 
 #techLogo {
-  width: 20%;
-  height: auto;
+  width: 200px;
+  height: 100px;
+  margin: 20px;
+  align-content: center;
 }

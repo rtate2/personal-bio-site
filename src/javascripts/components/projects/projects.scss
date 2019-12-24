@@ -4,17 +4,21 @@
 
 .project-screenshot {
   padding: 10px;
-  background-color: white;
-  height: 300px;
-  width: 500px;
+  background-color: transparent;
+  height: 200px;
+  width: auto;
   margin-bottom: 20px;
   margin-top: 20px;
 }
 
 .projectCard {
   border: 2px solid black;
-  border-radius: 2px;
-  margin: 0 10px;
+  border-radius: 5px;
+  margin: 25px;
+  width: 350px;
+  height: auto;
+  background-color: transparent;
+  background-image: url("https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&w=1000&q=80");
 }
 
 .cardTitle {
@@ -22,5 +26,5 @@
 }
 
 .cardBody {
-  background-color: white;
+  background-color: transparent;
 }
