@@ -1,7 +1,7 @@
 {
   "project1": {
     "title": "Product Cards",
-    "screenshot": "Images/ProductCards.png",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/personal-bio-site/master/Images/ProductCards.png",
     "description": "The project focused on building a grid of cards for a company's products.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, and Version Control with Github",
     "available": true,
@@ -10,7 +10,7 @@
   },
     "project2": {
     "title": "Solar System",
-    "screenshot": "Images/Solar-System.png",
+    "screenshot": "",
     "description": "Use this application to learn facts about the eight planets within the solar system. When the user moves their mouse over a planet card the name will disappear and the image of the planet will appear.",
     "technologiesUsed": "HTML, SCSS, JavaScript, Bootstrap, jQuery, Webpack, and Version Control with Github",
     "available": true,
@@ -20,7 +20,7 @@
 
   "project3": {
     "title": "Star Destroyer",
-    "screenshot": "Images/Star-Destoyer-Screenshot.png",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/personal-bio-site/master/Images/Star-Destoyer-Screenshot.png",
     "description": "Use this application to view the Star Destroyer Database and edit its content.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, and Firebase",
     "available": true,
@@ -29,7 +29,7 @@
   },
   "project4": {
     "title": "PanAm Airlines",
-    "screenshot": "Images/PanAm-Airlines-Screenshot.png",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/personal-bio-site/master/Images/PanAm-Airlines-Screenshot.png",
     "description": "Use this application as an internal system to maintain crew, airport, food services and fleet tracking for the new PanAm Airlines.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, and Firebase",
     "available": true,
@@ -38,7 +38,7 @@
   },
   "project5": {
     "title": "Shark Attack",
-    "screenshot": "Images/SharkAttack.png",
+    "screenshot": "",
     "description": "My entire class has fallen into a pool infested with sharks and the sharks are HUNGRY and will attack soon!",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, and REACT",
     "available": true,
