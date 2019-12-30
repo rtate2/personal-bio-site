@@ -18,17 +18,17 @@ const printTech = () => {
   technologyData.getTechnologyData()
     .then((technologies) => {
       let techString = '<h1>Technologies</h1>';
+      techString += '<div class="techStack d-flex flex-wrap">';
       technologies.forEach((technology) => {
         techString += `
-        <div class="card technology-card" style="width: 18rem;">
-          <div class="card-body">
+        <div class="technology-card col-3">
             <a href="${technology.techUrl}" target="_blank">
               <img src="${technology.image}" class="card-img-top" alt="technology logo" id="techLogo">
             </a>
-          </div>
         </div>
         `;
       });
+      techString += '</div>';
       utilities.printToDom('technologiesPage', techString);
     })
     .catch((error) => console.error(error));

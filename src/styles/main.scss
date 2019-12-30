@@ -8,19 +8,48 @@ body {
     // background-position: center;
 }
 
-.rt-footer {
-    display: flex;
-    flex-direction: row;
-}
-
 .hide {
     display: none;
 }
 
-.fullPage {
-    margin: 75px 0 0 0;
-}
-
 .heroImage {
     padding: 8% 0 0 0;
+    width: 100%;
 }
+
+#holder {
+    margin: 5% 0 0 0;
+}
+
+// .fullPage {
+//     margin: 50px 0 0 0;
+// }
+
+// .rt-footer {
+//     display: flex;
+//     flex-direction: row;
+// }
+
+// #technologiesPage {
+//     right: 100px;
+// }
+
+// #holder {
+//     position: relative;
+//     width: 100px;
+//     height: 100px;
+// }
+
+// #holder,
+// #container2 {
+//   width: 75%;
+//   height: 100%;
+//   position: absolute;
+//   top: 2%;
+//   left: 75%;
+//   right: 500px;
+// }
+
+// .techStack {
+//     z-index: 10;
+//   }
