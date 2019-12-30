@@ -10,7 +10,7 @@
   },
     "project2": {
     "title": "Solar System",
-    "screenshot": "",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/personal-bio-site/master/Images/SolarSystem.png",
     "description": "Use this application to learn facts about the eight planets within the solar system. When the user moves their mouse over a planet card the name will disappear and the image of the planet will appear.",
     "technologiesUsed": "HTML, SCSS, JavaScript, Bootstrap, jQuery, Webpack, and Version Control with Github",
     "available": true,
@@ -38,7 +38,7 @@
   },
   "project5": {
     "title": "Shark Attack",
-    "screenshot": "",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/personal-bio-site/master/Images/SharkAttack.png",
     "description": "My entire class has fallen into a pool infested with sharks and the sharks are HUNGRY and will attack soon!",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, and REACT",
     "available": true,
