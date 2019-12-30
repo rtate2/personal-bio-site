@@ -8,17 +8,8 @@ body {
     // background-position: center;
 }
 
-.rt-footer {
-    display: flex;
-    flex-direction: row;
-}
-
 .hide {
     display: none;
-}
-
-.fullPage {
-    margin: 50px 0 0 0;
 }
 
 .heroImage {
@@ -26,9 +17,22 @@ body {
     width: 100%;
 }
 
-#technologiesPage {
-    right: 100px;
+#holder {
+    margin: 5% 0 0 0;
 }
+
+// .fullPage {
+//     margin: 50px 0 0 0;
+// }
+
+// .rt-footer {
+//     display: flex;
+//     flex-direction: row;
+// }
+
+// #technologiesPage {
+//     right: 100px;
+// }
 
 // #holder {
 //     position: relative;
@@ -43,9 +47,9 @@ body {
 //   position: absolute;
 //   top: 2%;
 //   left: 75%;
-// //   right: 500px;
+//   right: 500px;
 // }
 
-// // .techStack {
-// //     z-index: 10;
-// //   }
+// .techStack {
+//     z-index: 10;
+//   }

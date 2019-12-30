@@ -5,14 +5,14 @@
     "description": "The project focused on building a grid of cards for a company's products.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, and Version Control with Github",
     "available": true,
-    "url": "https://github.com/rtate2/product-cards",
+    "url": "https://product-cards.firebaseapp.com",
     "githubUrl": "https://github.com/rtate2/product-cards"
   },
     "project2": {
     "title": "Solar System",
     "screenshot": "Images/Solar-System.png",
     "description": "Use this application to learn facts about the eight planets within the solar system. When the user moves their mouse over a planet card the name will disappear and the image of the planet will appear.",
-    "technologiesUsed": "HTML, SCSS, JavaScript, Bootstrap, jQuery, Webpack, Version Control with Github",
+    "technologiesUsed": "HTML, SCSS, JavaScript, Bootstrap, jQuery, Webpack, and Version Control with Github",
     "available": true,
     "url": "https://solar-system-80a9f.firebaseapp.com",
     "githubUrl": "https://github.com/rtate2/solar-system"
@@ -22,7 +22,7 @@
     "title": "Star Destroyer",
     "screenshot": "Images/Star-Destoyer-Screenshot.png",
     "description": "Use this application to view the Star Destroyer Database and edit its content.",
-    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, Firebase",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, and Firebase",
     "available": true,
     "url": "https://nutshell-star-destroyer.firebaseapp.com/",
     "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-star-destroyer"
@@ -31,9 +31,18 @@
     "title": "PanAm Airlines",
     "screenshot": "Images/PanAm-Airlines-Screenshot.png",
     "description": "Use this application as an internal system to maintain crew, airport, food services and fleet tracking for the new PanAm Airlines.",
-    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, Firebase",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, and Firebase",
     "available": true,
     "url": "https://nutshell-panam.firebaseapp.com/",
     "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-panam-airlines"
+  },
+  "project5": {
+    "title": "Shark Attack",
+    "screenshot": "Images/SharkAttack.png",
+    "description": "My entire class has fallen into a pool infested with sharks and the sharks are HUNGRY and will attack soon!",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, jQuery, and REACT",
+    "available": true,
+    "url": "https://react-shark-attack.firebaseapp.com",
+    "githubUrl": "https://github.com/rtate2/shark-attack"
   }
 }
