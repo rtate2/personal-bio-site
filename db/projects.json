@@ -44,5 +44,14 @@
     "available": true,
     "url": "https://react-shark-attack.firebaseapp.com",
     "githubUrl": "https://github.com/rtate2/shark-attack"
+  },
+  "project6": {
+    "title": "Sports Roster",
+    "screenshot": "",
+    "description": "I have created a NBA Greatest Roster, full of my all-time favorite players.",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Bootstrap, Version Control with Github, jQuery, Firebase and REACT",
+    "available": true,
+    "url": "https://react-sports-roster-b2657.firebaseapp.com/",
+    "githubUrl": "https://github.com/rtate2/sports-roster"
   }
 }
