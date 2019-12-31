@@ -47,7 +47,7 @@
   },
   "project6": {
     "title": "Sports Roster",
-    "screenshot": "",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/personal-bio-site/master/Images/SportsRoster.png",
     "description": "I have created a NBA Greatest Roster, full of my all-time favorite players.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Bootstrap, Version Control with Github, jQuery, Firebase and REACT",
     "available": true,
