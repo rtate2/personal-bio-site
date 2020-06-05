@@ -4,7 +4,7 @@ import './home.scss';
 
 const homePage = () => {
   const domString = `
-  <h2>"I never lose. I either win or I learn." - Nelson Mandela</h2>
+  <h2>"Whatever you do, work at it with all your heart, as working for the Lord, not for human master.” Colossians 3:23</h2>
   `;
   utilities.printToDom('home', domString);
 };
