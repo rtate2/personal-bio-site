@@ -1,5 +1,7 @@
 import $ from 'jquery';
 
+import './navbar.scss';
+
 const displayHome = () => {
   $('#home-link').on('click', () => {
     $('#home').show();

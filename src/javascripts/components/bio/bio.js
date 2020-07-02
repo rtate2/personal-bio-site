@@ -2,6 +2,8 @@ import $ from 'jquery';
 
 import utilities from '../../helpers/utilities';
 
+import './bio.scss';
+
 const displayBio = () => {
   $('#navToBio').on('click', () => {
     $('#bioPage').show();

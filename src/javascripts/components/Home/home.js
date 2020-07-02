@@ -4,7 +4,12 @@ import './home.scss';
 
 const homePage = () => {
   const domString = `
-  <h2>"Whatever you do, work at it with all your heart, as working for the Lord, not for human master.” Colossians 3:23</h2>
+  <div class="box">
+          <div class="text">
+              <h1>Hey, I'm Randy Tate</h1>
+              <h2> Welcome to my site </h2>
+          </div>
+      </div>
   `;
   utilities.printToDom('home', domString);
 };
