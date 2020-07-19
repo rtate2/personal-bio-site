@@ -1,5 +1,6 @@
-.projectCard {
-  margin: 0 0 20px 0;
+#projectsPage {
+  padding: 100px 0 110px 0;
+  
 }
 
 .project-screenshot {
@@ -18,7 +19,15 @@
   width: 350px;
   height: auto;
   background-color: transparent;
-  background-image: url("https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&w=1000&q=80");
+  // background-image: url("https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&w=1000&q=80");
+  background: 
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;;
+    background-color:#282828;
+    background-size:16px 16px;
+    color: white;
 }
 
 .cardTitle {
@@ -28,3 +37,15 @@
 .cardBody {
   background-color: transparent;
 }
+
+.projects-heading {
+    font: 400 50px/1.3 'Oleo Script', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+}
+
+// {
+  //   font: 400 20px/1.3 'Oleo Script', Helvetica, sans-serif;
+  //   color: #f5f1f1;
+  //   text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+  // }

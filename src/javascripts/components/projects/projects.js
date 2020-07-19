@@ -17,8 +17,8 @@ const displayProjects = () => {
 const createProjectCards = () => {
   projectData.getProjectData()
     .then((projects) => {
-      let domString = '<h1 class="projects-heading">Projects</h1>';
-      domString += '<div id="projects-section" class="d-flex flex-wrap text-center offset-2">';
+      let domString = '<h1 class="projects-heading offset-1">Projects</h1>';
+      domString += '<div id="projects-section" class="d-flex flex-wrap text-center offset-1">';
       projects.forEach((project) => {
         domString += `
         <div class="card projectCard">
