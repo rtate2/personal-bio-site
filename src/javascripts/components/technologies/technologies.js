@@ -17,7 +17,7 @@ const displayTechnologies = () => {
 const printTech = () => {
   technologyData.getTechnologyData()
     .then((technologies) => {
-      let techString = '<h1 class="offset-1">Technologies</h1>';
+      let techString = '<h1 class="offset-1 techHeading">Experience with following technologies:</h1>';
       techString += '<div class="techStack d-flex flex-wrap">';
       technologies.forEach((technology) => {
         techString += `

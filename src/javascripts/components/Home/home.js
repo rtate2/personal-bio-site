@@ -4,10 +4,9 @@ import './home.scss';
 
 const homePage = () => {
   const domString = `
-  <div class="box">
+  <div class="box" style="padding-bottom: 100px; padding-top: 900px;">
           <div class="text">
-              <h1>Hey, I'm Randy Tate</h1>
-              <h2> Welcome to my site </h2>
+              <h2>Hey, welcome to my site!</h2>
           </div>
       </div>
   `;

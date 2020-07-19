@@ -1,10 +1,5 @@
-// h2 {
-//   font-family: impact, apple chancery, cursive;
-// }
-
 #home{
   background-image: url("https://images.unsplash.com/photo-1517244948572-e686bd40f8a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80");
-  //background-image: url("https://images.unsplash.com/photo-1478562853135-c3c9e3ef7905?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"); //Austin Neill
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,7 +11,7 @@
   position: relative;
   display: inline-block; /* Make the width of box same as image */
   margin: auto;
-  padding: 55%;
+  padding: 50%;
 }
 .box .text{
   position: absolute;
@@ -32,4 +27,8 @@
   width: 50%; /* Set the width of the positioned div */
 }
 
-//<img class="mainPic" src="https://images.unsplash.com/photo-1478562853135-c3c9e3ef7905?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"></img>
+h2 {
+  font: 400 50px/1.3 'Oleo Script', Helvetica, sans-serif;
+  color: #f5f1f1;
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+}
