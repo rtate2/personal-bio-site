@@ -53,5 +53,23 @@
     "available": true,
     "url": "https://react-sports-roster-b2657.firebaseapp.com/",
     "githubUrl": "https://github.com/rtate2/sports-roster"
+  },
+  "project7": {
+    "title": "Frontend Captstone - I Got Next",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/i-got-next/master/src/images/Screen%20Shot%202020-02-07%20at%208.42.00%20PM.png",
+    "description": "The easy to use app displays the teams, in order, of which games will be played; making it easy for users to know when they will play and who they will be playing with.",
+    "technologiesUsed": "REACT, Bootstrap, SCSS, and Firebase",
+    "available": true,
+    "url": "https://i-got-next-frontend-capstone.firebaseapp.com/home",
+    "githubUrl": "https://github.com/rtate2/i-got-next"
+  },
+  "project8": {
+    "title": "Backend Captstone - I Got Next 2.0",
+    "screenshot": "https://www.safetysign.com/images/source/medium-images/G2379.png",
+    "description": "The 2.0 version includes enhancements that allow the user to view the current game, see who's next, join a team already created, and allow an administrator to make changes to the list.",
+    "technologiesUsed": "REACT, C#, ASP.Net, SQL Server Bootstrap, and SCSS",
+    "available": true,
+    "url": "#",
+    "githubUrl": "https://github.com/rtate2/i-got-next-2"
   }
 }
