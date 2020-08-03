@@ -28,7 +28,7 @@ const printBio = () => {
       </p> 
 
       <p>
-      <img class="headShot" align="right" src="Images/RandyTateJr.jpg"></img>
+      <img class="headShot" align="right" src="https://firebasestorage.googleapis.com/v0/b/personal-project-31bdb.appspot.com/o/RandyTateJr.jpg?alt=media&token=de5097a5-4e45-46f4-898a-07379f52243a"></img>
         I've always loved sports and being active. I followed this passion and obtained a bachelor’s degree in Sports Management at The 
         University of Tennessee <img class="powerT" src="https://img2.pngio.com/power-t-clipart-tennessee-power-t-png-1600_1600.jpg" />. Though I enjoyed my coursework and professors, I realized that becoming a sports agent wasn't 
         my calling. After graduating from UT, I worked a few years within education and decided to obtain a Masters of Arts in Education 
@@ -39,7 +39,7 @@ const printBio = () => {
       </p>
       
       <p>
-        I have spent the last 8+ years, with the last 4+ years at Staffing as a Mission, as a Technical Recruiter/Account Executive, 
+        I have spent 8+ years, with the last 4+ years at Staffing as a Mission, as a Technical Recruiter/Account Executive, 
         developing relationships with decision-makers and technical professionals. The technology, the projects, and the overall impact 
         that's made are intriguing. Those conversations have led me to get into the field myself.
       </p>
