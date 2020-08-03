@@ -28,7 +28,7 @@ const printBio = () => {
       </p> 
 
       <p>
-      <img class="headShot" align="right" src="https://firebasestorage.googleapis.com/v0/b/personal-project-31bdb.appspot.com/o/RandyTateJr.jpg?alt=media&token=de5097a5-4e45-46f4-898a-07379f52243a"></img>
+      <img class="headShot" align="right" src="https://firebasestorage.googleapis.com/v0/b/personal-project-31bdb.appspot.com/o/RandyTateJr.jpg?alt=media&token=de5097a5-4e45-46f4-898a-07379f52243a" alt="picture of Randy Tate"></img>
         I've always loved sports and being active. I followed this passion and obtained a bachelor’s degree in Sports Management at The 
         University of Tennessee <img class="powerT" src="https://img2.pngio.com/power-t-clipart-tennessee-power-t-png-1600_1600.jpg" />. Though I enjoyed my coursework and professors, I realized that becoming a sports agent wasn't 
         my calling. After graduating from UT, I worked a few years within education and decided to obtain a Masters of Arts in Education 
