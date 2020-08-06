@@ -65,7 +65,7 @@
   },
   "project8": {
     "title": "Backend Captstone - I Got Next 2.0",
-    "screenshot": "https://www.safetysign.com/images/source/medium-images/G2379.png",
+    "screenshot": "https://raw.githubusercontent.com/rtate2/personal-bio-site/master/Images/HomePageImage.PNG",
     "description": "The 2.0 version includes enhancements that allow the user to view the current game, see who's next, join a team already created, and allow an administrator to make changes to the list.",
     "technologiesUsed": "REACT, C#, ASP.Net, SQL Server Bootstrap, and SCSS",
     "available": true,
